@@ -8,7 +8,9 @@ namespace data.DAO
 {
     public class Groups
     {
-        public int id {get;set;}
+        public int Groups_id { get;set;}
         public string name {get;set;}
+
+
     }
 }

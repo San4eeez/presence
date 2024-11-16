@@ -8,7 +8,7 @@ namespace data.DAO
 {
     public class semesters
     {
-        public int id {  get; set; }
+        public int semesters_id {  get; set; }
         public string semester_name { get; set; }
     }
 }

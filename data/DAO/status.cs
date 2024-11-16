@@ -8,7 +8,7 @@ namespace data.DAO
 {
     public class status
     {
-        public int id {  get; set; }
+        public int status_id {  get; set; }
 
         public string status_name { get; set; }
     }

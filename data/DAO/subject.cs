@@ -9,7 +9,7 @@ namespace data.DAO
     public class subject
     {
 
-        public int id { get; set; }
+        public int subject_id { get; set; }
         public string name_subject { get; set;}
         
 
